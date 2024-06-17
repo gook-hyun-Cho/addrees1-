@@ -1,6 +1,4 @@
 
-카페 키오스크 시스템  - Java script 
-
 const express = require('express');
 const bodyParser = require('body-parser');
 
